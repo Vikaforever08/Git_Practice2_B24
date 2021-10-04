@@ -4,6 +4,8 @@ public class First {
         //added main
     }
     public void str(String oj){
+        System.out.println();
+        System.out.println();
 
     }
     //we created new file
