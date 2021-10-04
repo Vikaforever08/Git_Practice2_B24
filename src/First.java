@@ -5,7 +5,7 @@ public class First {
     }
     public void str(String oj){
         System.out.println();
-        System.out.println();
+        System.out.println("hello");
 
     }
     //we created new file
