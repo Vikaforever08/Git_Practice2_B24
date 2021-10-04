@@ -3,7 +3,7 @@ public class First {
 
         //added main
     }
-    public void str(){
+    public void str(String oj){
 
     }
     //we created new file
